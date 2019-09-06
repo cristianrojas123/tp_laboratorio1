@@ -25,3 +25,24 @@
 	<ctype.h>
 	<string.h>
 
+1567617329 source:c:\users\gamecrown1\desktop\tp_laboratorio1\operaciones\validacion.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1567704333 source:c:\users\gamecrown1\desktop\tp_laboratorio1\operaciones\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Operaciones.h"
+
+1567788929 c:\users\gamecrown1\desktop\tp_laboratorio1\operaciones\operaciones.h
+
+1567789710 source:c:\users\gamecrown1\desktop\tp_laboratorio1\operaciones\operaciones.c
+	<stdio.h>
+	<stdlib.h>
+	"Operaciones.h"
+	"Validacion.h"
+
+1567789589 c:\users\gamecrown1\desktop\tp_laboratorio1\operaciones\validacion.h
+

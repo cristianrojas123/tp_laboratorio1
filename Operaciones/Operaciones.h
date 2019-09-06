@@ -1,11 +1,35 @@
-/** \brief La suma de dos numeros.
+
+/** \brief Pide al usuario dos numeros (a y b) para sumarlos.
  *
- * \param char[] mensaje que quieras pedirle al usuario.
- * \return int devuelve un numero entero.
+ * \return int Un numero entero.
  *
  */
 int GetSuma();
+
+/** \brief Pide al usuario dos numeros (a y b) para restarlos.
+ *
+ * \return int Un numero entero.
+ *
+ */
 int GetResta();
+
+/** \brief Pide al usuario dos numeros (a y b) para multiplicarlos.
+ *
+ * \return int Un numero entero.
+ *
+ */
 int GetMultiplicacion();
+
+/** \brief Pide al usuario dos numeros (a y b) para dividirlo.
+ *
+ * \return int Un numero entero.
+ *
+ */
 int GetDivision();
+
+/** \brief Pide un numero para factorial (NUMERO MAXIMO DE FACTOREO = 13)
+ *
+ * \return int Un numero entero.
+ *
+ */
 int GetFactoreo();

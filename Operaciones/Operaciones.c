@@ -3,6 +3,7 @@
 #include "Operaciones.h"
 #include "Validacion.h"
 
+
 int GetSuma()
 {
     int a;
@@ -192,22 +193,22 @@ int GetDivision()
     }
 
     return 0;
-
 }
+
 int GetFactoreo()
 {
     int a;
     int i;
-    int factorial = 1;
+    double factorial = 1;
 
     printf("Ingrese el numero ");
     scanf("%d",&a);
 
-    for(i=1;i<=a;i++)
+    for(i=a;i>=1;i--)
     {
         factorial = factorial * i;
     }
-    printf("El factorial de %d es %d",a,factorial);
+    printf("El factorial de %d es %0.f",a,factorial);
 
     return 0;
 }
